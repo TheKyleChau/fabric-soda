@@ -1,2 +1,5 @@
-# fabric-soda
-Bringing soda to Minecraft!
+# Fabric Soda Mod
+
+## Setup
+
+Drop and drag into your mods folder after installing Fabric and Fabric API.
